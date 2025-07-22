@@ -111,7 +111,6 @@ run_simulation -behavioral
 *Note: Hardware deployment procedures are being finalized as part of the ongoing development.*
 
 ---
----
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
